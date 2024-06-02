@@ -2,7 +2,6 @@
   "name": "tennis-tournament",
   "author": "Fucci",
   "version": "0.1.0",
-  "homepage": "https://amynnbrah.github.io/TennisWebsiteProject/public/index.html",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
