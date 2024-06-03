@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TennisWebsiteProject/static/css/main.101a0d1c.css",
+    "main.js": "/TennisWebsiteProject/static/js/main.f0e947c7.js",
+    "static/js/453.995abac3.chunk.js": "/TennisWebsiteProject/static/js/453.995abac3.chunk.js",
+    "index.html": "/TennisWebsiteProject/index.html",
+    "main.101a0d1c.css.map": "/TennisWebsiteProject/static/css/main.101a0d1c.css.map",
+    "main.f0e947c7.js.map": "/TennisWebsiteProject/static/js/main.f0e947c7.js.map",
+    "453.995abac3.chunk.js.map": "/TennisWebsiteProject/static/js/453.995abac3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.101a0d1c.css",
+    "static/js/main.f0e947c7.js"
+  ]
+}
